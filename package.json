@@ -4,6 +4,7 @@
   "description": "",
   "main": ".eleventy.js",
   "scripts": {
+    "build": "npm run eleventy",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -11,7 +12,7 @@
     "url": "git+https://github.com/EthanHung/11y-test.git"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/EthanHung/11y-test/issues"
   },
